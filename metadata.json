@@ -1,0 +1,6 @@
+{
+  "name": "Symphony in Acid - Music Visualizer",
+  "description": "An interactive music visualization experience inspired by Max Cooper's 'Symphony in Acid', featuring real-time audio analysis and digitalized lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
